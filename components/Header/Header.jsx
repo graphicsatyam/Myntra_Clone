@@ -17,7 +17,7 @@ function Header() {
         <div className="container-fluid ">
           <div className="logo">
             <Link to="/" href="#">
-              <img src="../../src/assets/images/logo.git" alt="" />
+              <img src="images/logo.jpg" alt="" />
             </Link>
           </div>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
